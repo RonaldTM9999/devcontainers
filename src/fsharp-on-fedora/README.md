@@ -7,7 +7,7 @@ An Fedora environment for F# development
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-
+| base | Base Fedora and F# environment | string | base |
 
 
 
