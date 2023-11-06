@@ -1,7 +1,7 @@
 
 # F# on Fedora (fsharp-on-fedora)
 
-An Fedora environment for F# development
+F# development within a Fedora environment
 
 ## Options
 
