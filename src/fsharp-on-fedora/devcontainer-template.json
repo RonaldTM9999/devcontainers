@@ -4,7 +4,7 @@
     "name": "F# on Fedora",
     "description": "An Fedora environment for F# development",
     "documentationURL": "README.md",
-    "licenseURL": "LICENCE",
+    "licenseURL": "https://github.com/RonaldTM9999/devcontainers/blob/main/LICENCE",
     "options": {},
     "platforms": [
         "Any"
