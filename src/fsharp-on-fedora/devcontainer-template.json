@@ -1,11 +1,18 @@
 {
     "id": "fsharp-on-fedora",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "name": "F# on Fedora",
     "description": "An Fedora environment for F# development",
     "documentationURL": "https://github.com/RonaldTM9999/devcontainers/tree/main/src/fsharp-on-fedora",
     "licenseURL": "https://github.com/RonaldTM9999/devcontainers/blob/main/LICENCE",
-    "options": {},
+    "options": {
+        "base": {
+            "type": "string",
+            "description": "Base Fedora and F# environment",
+            "proposals": ["base"],
+            "default": "base"
+        }
+    },
     "platforms": [
         "Any"
     ],
