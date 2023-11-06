@@ -1,0 +1,9 @@
+{
+  "name": "F# on Fedora",  
+  "build": { "dockerfile": "Dockerfile" },
+    "customizations": {
+      "vscode": {
+        "extensions": ["ionide.ionide-fsharp"]
+      }
+    }
+}

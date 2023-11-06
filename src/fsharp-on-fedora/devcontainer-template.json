@@ -1,0 +1,21 @@
+{
+    "id": "fsharp-on-fedora",
+    "version": "0.1.0",
+    "name": "F# on Fedora",
+    "description": "An Fedora environment for F# development",
+    "documentationURL": "README.md",
+    "licenseURL": "LICENCE",
+    "options": {},
+    "platforms": [
+        "Any"
+    ],
+    "publisher": "Ronald Munodawafa",
+    "keywords": [
+        "F#", 
+        "fsharp",
+        "fedora",
+        "linux",
+        "dotnet",
+        ".NET"
+    ]
+}
