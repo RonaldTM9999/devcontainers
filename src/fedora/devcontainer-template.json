@@ -1,0 +1,24 @@
+{
+    "id": "fedora",
+    "version": "0.1.0",
+    "name": "Fedora",
+    "description": "Simple Fedora Linux container for development",
+    "documentationURL": "https://github.com/RonaldTM9999/devcontainers/tree/main/src/fedora",
+    "licenseURL": "https://github.com/RonaldTM9999/devcontainers/blob/main/LICENCE",
+    "options": {
+        "version": {
+            "type": "string",
+            "description": "Version of Fedora to be used",
+            "proposals": ["latest", "rawhide", "40", "39", "38", "37"],
+            "default": "latest"
+        }
+    },
+    "platforms": [
+        "Any"
+    ],
+    "publisher": "Ronald Munodawafa",
+    "keywords": [
+        "fedora",
+        "linux"
+    ]
+}
