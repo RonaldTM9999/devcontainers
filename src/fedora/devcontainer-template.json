@@ -9,7 +9,7 @@
         "version": {
             "type": "string",
             "description": "Version of Fedora to be used",
-            "proposals": ["latest", "rawhide", "40", "39", "38", "37"],
+            "proposals": ["latest", "rawhide", "40", "39", "38"],
             "default": "latest"
         }
     },
